@@ -1,4 +1,4 @@
-# dimension-reduction
+# data-decomposition
 Data dimensionality reduction algorithms
 
 Implements Principal Component Analysis (PCA) and Linear Discriminant Analysis (LDA)
